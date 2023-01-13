@@ -13,7 +13,7 @@ Fitur yang harus ada pada aplikasi.
      - Email (R.id.ed_register_email)
      - Password (R.id.ed_register_password)
    - Password wajib disembunyikan.
-   - Membuat Custom View berupa EditText pada halaman login atau register dengan ketentuan sebagai berikut.
+   - Membuat Custom View berupa EditText pada halaman login atau register dengan ketentuan sebagai berikut:
      -Jika jumlah password kurang dari 8 karakter, menampilkan pesan error secara langsung pada EditText tanpa harus pindah form atau klik tombol dulu.
    - Menyimpan data sesi dan token di preferences. Data sesi digunakan untuk mengatur alur aplikasi dengan spesifikasi seperti berikut.
      - Jika sudah login langsung masuk ke halaman utama.
